@@ -501,7 +501,7 @@ try {
             	     System.out.println("EMIPG5 "+EMIPG5);
             	     System.out.println("EMIPG6 "+EMIPG6);
             	     System.out.println("MEAP "+MEAP);
-            	     System.out.println("MEPOR "+MEPOR);
+            	     //System.out.println("MEPOR "+MEPOR);
                 	
             	}
                  
